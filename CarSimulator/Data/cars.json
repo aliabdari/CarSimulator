@@ -1,0 +1,106 @@
+[
+  {
+    "Id": "cf7fbc1f-0eba-4195-80d4-b8d65420c463",
+    "Name": "car1",
+    "Body": 0,
+    "Speed": 0,
+    "HasTrumpet": false,
+    "Engine": {
+      "IsRunning": false
+    },
+    "Tank": {
+      "Capacity": 40,
+      "CurrentLevel": 29,
+      "FuelType": 0
+    },
+    "Wheels": {
+      "Count": 4,
+      "Size": 17
+    },
+    "Steering": {
+      "CurrentDegree": 7
+    },
+    "BrakePedal": {
+      "Strength": 10
+    },
+    "Accelerator": {}
+  },
+  {
+    "Id": "3ea4be96-df48-4666-a799-f86a978548ad",
+    "Name": "car2",
+    "Body": 1,
+    "Speed": 0,
+    "HasTrumpet": false,
+    "Engine": {
+      "IsRunning": false
+    },
+    "Tank": {
+      "Capacity": 50,
+      "CurrentLevel": 50,
+      "FuelType": 0
+    },
+    "Wheels": {
+      "Count": 4,
+      "Size": 17
+    },
+    "Steering": {
+      "CurrentDegree": 240
+    },
+    "BrakePedal": {
+      "Strength": 10
+    },
+    "Accelerator": {}
+  },
+  {
+    "Id": "8497dd8d-0549-4e30-b833-23c985c7df94",
+    "Name": "car3",
+    "Body": 0,
+    "Speed": 0,
+    "HasTrumpet": true,
+    "Engine": {
+      "IsRunning": false
+    },
+    "Tank": {
+      "Capacity": 40,
+      "CurrentLevel": 40,
+      "FuelType": 0
+    },
+    "Wheels": {
+      "Count": 4,
+      "Size": 17
+    },
+    "Steering": {
+      "CurrentDegree": 0
+    },
+    "BrakePedal": {
+      "Strength": 10
+    },
+    "Accelerator": {}
+  },
+  {
+    "Id": "89dc5dbc-ef91-41bd-b873-1789f91931b9",
+    "Name": "car4",
+    "Body": 1,
+    "Speed": 0,
+    "HasTrumpet": false,
+    "Engine": {
+      "IsRunning": false
+    },
+    "Tank": {
+      "Capacity": 50,
+      "CurrentLevel": 42,
+      "FuelType": 0
+    },
+    "Wheels": {
+      "Count": 4,
+      "Size": 17
+    },
+    "Steering": {
+      "CurrentDegree": 0
+    },
+    "BrakePedal": {
+      "Strength": 10
+    },
+    "Accelerator": {}
+  }
+]
